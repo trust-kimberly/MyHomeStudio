@@ -1,0 +1,27 @@
+h1 {
+  color: Thistle;
+  font-family: Oswald;
+  font-weight: 400;
+  font-size: 120px;
+}
+
+body{
+  background-color: #193434;
+  color: Lavender;
+  font-family: helvetica;
+  font-size: 24px;
+}
+
+p {
+  color: Lavender;
+  font-family: helvetica;
+  font-size: 24px;
+}
+
+img {
+  width: 60vw;
+}
+
+iframe {
+  width: 60vw;
+}
